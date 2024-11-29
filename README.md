@@ -118,7 +118,7 @@ The UMBC Puzzle Management System is a C++ application designed to create, manip
 - Ensure proper memory management to avoid leaks when manipulating grids.
 
 ## Author
-- **UMBC CMSC 341**
+- **UMBC CMSC 341**: Ashraf Kawooya
 - **Semester**: Spring 2024
 
 ## License
